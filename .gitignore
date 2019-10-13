@@ -1,3 +1,4 @@
 data/raw/*.Inputs
 data/raw/*.Targets
+data/interim/*.csv
 .ipynb_checkpoints
